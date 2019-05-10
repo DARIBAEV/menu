@@ -52,7 +52,7 @@
               "name": "user",
               "family": "Mobirise2",
               "active": true,
-              "link": "daribaev.github.io/biographia",
+              "link": "http://daribaev.github.io/biographia",
               "size": 0,
               "newWindow": false
             }
@@ -64,7 +64,7 @@
               "name": "mobile",
               "family": "et-line",
               "active": true,
-              "link": "daribaev.github.io/nagrady",
+              "link": "http://daribaev.github.io/nagrady",
               "size": 0,
               "newWindow": false
             }
@@ -204,7 +204,7 @@
               "name": "new-file",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "daribaev.github.io/info",
+              "link": "http://daribaev.github.io/info",
               "size": 118,
               "color": "",
               "newWindow": false
@@ -287,7 +287,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/foto\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">побронее</a>",
           "button2": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/video\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"daribaev.github.io/info\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/info\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
