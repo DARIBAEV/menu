@@ -52,7 +52,7 @@
               "name": "user",
               "family": "Mobirise2",
               "active": true,
-              "link": "C:\\Сайт\\Биография\\index.html",
+              "link": "daribaev.github.io/biographia",
               "size": 0,
               "newWindow": false
             }
@@ -64,7 +64,7 @@
               "name": "mobile",
               "family": "et-line",
               "active": true,
-              "link": "C:\\Сайт\\Награды\\index.html",
+              "link": "daribaev.github.io/nagrady",
               "size": 0,
               "newWindow": false
             }
@@ -76,7 +76,7 @@
               "name": "pencil",
               "family": "et-line",
               "active": true,
-              "link": "C:\\Сайт\\Творчество\\index.html",
+              "link": "daribaev.github.io/bio",
               "size": 0,
               "newWindow": false
             }
@@ -88,7 +88,7 @@
               "name": "global",
               "family": "et-line",
               "active": true,
-              "link": "C:\\Сайт\\Творческий вечер\\index.html",
+              "link": "http://daribaev.github.io/vecher",
               "size": 0,
               "newWindow": false
             }
@@ -139,16 +139,16 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Өмірбаян",
+          "title1": "<a href=\"http://daribaev.github.io/biographi\">Өмірбаян</a>",
           "subtitle1": "Тарих",
           "caption1": "",
-          "title2": "<a href=\"C:\\Сайт\\Награды\\index.html\">Марапаттары</a>",
+          "title2": "<a href=\"http://daribaev.github.io/nagrady\">Марапаттары</a>",
           "subtitle2": "Үздік еңбегі үшін алған марапаттары",
           "caption2": "",
-          "title3": "<a href=\"C:\\Сайт\\Творчество\\index.html\">Еңбектері</a>",
+          "title3": "<a href=\"http://daribaev.github.io/bio\">Еңбектері</a>",
           "subtitle3": "Шығармашылығы, өлеңдері",
           "caption3": "",
-          "title4": "<a href=\"C:\\Сайт\\Творческий вечер\\index.html\">Әдеби – шығармашылық кеш</a>",
+          "title4": "<a href=\"http://daribaev.github.io/vecher\">Әдеби – шығармашылық кеш</a>",
           "subtitle4": "Еңбек еткен мектебінде шығармашылық кеш өтті",
           "caption4": "",
           "title5": "Trendy Website Blocks",
@@ -157,10 +157,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"C:\\Сайт\\Биография\\index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подбронее</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"C:\\Сайт\\Награды\\index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"C:\\Сайт\\Творчество\\index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"C:\\Сайт\\Творческий вечер\\index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/biographia\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подбронее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/nagrady\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/bio\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/vecher\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features2",
@@ -180,7 +180,7 @@
               "name": "opened-folder",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "C:\\Сайт\\Фотодокумент\\index.html",
+              "link": "http://daribaev.github.io/foto",
               "size": 0,
               "newWindow": false
             }
@@ -192,7 +192,7 @@
               "name": "video",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "C:\\Сайт\\Видео\\index.html",
+              "link": "http://daribaev.github.io/video",
               "size": 0,
               "newWindow": false
             }
@@ -204,7 +204,7 @@
               "name": "new-file",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "C:\\Сайт\\Справка\\index.html",
+              "link": "daribaev.github.io/info",
               "size": 118,
               "color": "",
               "newWindow": false
@@ -267,13 +267,13 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<a href=\"C:\\Сайт\\Фотодокумент\\index.html\">Фотосуреттер</a>",
+          "title1": "<a href=\"http://daribaev.github.io/foto\">Фотосуреттер</a>",
           "subtitle1": "",
           "caption1": "",
-          "title2": "<a href=\"C:\\Сайт\\Видео\\index.html\">Видео альбом</a>",
+          "title2": "<a href=\"http://daribaev.github.io/video\">Видео альбом</a>",
           "subtitle2": "Өмір жолдарынан",
           "caption2": "",
-          "title3": "<a href=\"C:\\Сайт\\Справка\\index.html\" target=\"_blank\">Анықтама</a>",
+          "title3": "<a href=\"http://daribaev.github.io/info\" target=\"_blank\">Анықтама</a>",
           "subtitle3": "",
           "caption3": "",
           "title4": "Анықтама",
@@ -285,9 +285,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"C:\\Сайт\\Фотодокумент\\index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">побронее</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"C:\\Сайт\\Видео\\index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"C:\\Сайт\\Справка\\index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/foto\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">побронее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://daribaev.github.io/video\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"daribaev.github.io/info\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">подробнее</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
